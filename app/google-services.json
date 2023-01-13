@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119768547675",
+    "project_id": "my-application-d4ba7",
+    "storage_bucket": "my-application-d4ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119768547675:android:c3b9620ba748c5cc4ada7e",
+        "android_client_info": {
+          "package_name": "com.intershala.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119768547675-7a87dbo1u1c7rm9op4aag48q4g1l8igr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intershala.myapplication",
+            "certificate_hash": "825ff8f5aa07da549b8bf2ae77e848b9d7318c06"
+          }
+        },
+        {
+          "client_id": "119768547675-56ftb0hmnqgr6ka0jjmev4c7spvnmsec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT4KCck25_G36pg-6ALLDX8K4tcJw4YFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119768547675-56ftb0hmnqgr6ka0jjmev4c7spvnmsec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
